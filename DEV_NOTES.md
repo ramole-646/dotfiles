@@ -33,3 +33,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Cleaned up old debug logs
 - Removed unused variable declarations
+
+## 2026-03-30
+- Updated .gitignore to exclude build artifacts
+- Updated license year
